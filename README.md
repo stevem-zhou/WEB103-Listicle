@@ -29,6 +29,7 @@ The following **additional** features are implemented:
 Here's a walkthrough of implemented required features:
 
 <img src='https://i.imgur.com/1Ctbs6v.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src="https://cdn.discordapp.com/attachments/721962382666104857/1156726002312028170/Screenshot_2023-09-27_155425.png?ex=65160489&is=6514b309&hm=4d74bd786b0a5b7424d86094e97948a24691faf651e691460aeeda6a4c0b88cf&" title='PostgreSQL Database' width='' alt='PostgreSQL Database' >
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with [ScreenToGif]  GIF tool here
