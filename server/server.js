@@ -1,5 +1,6 @@
 import express from "express";
 import minecraftRouter from "./routes/minecraftItems.js";
+import "./config/dotenv.js"
 
 const app = express();
 

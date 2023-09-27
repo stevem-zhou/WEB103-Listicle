@@ -19,11 +19,11 @@ document.addEventListener("DOMContentLoaded", () => {
         topContainer.style.backgroundImage = `url(${minecraftItem.image})`;
 
         const name = document.createElement("h3");
-        name.textContent = minecraftItem.name;
+        name.textContent = minecraftItem.itemname;
         bottomContainer.appendChild(name);
-
         const audience = document.createElement("p");
-        audience.textContent = "Item Description: " + minecraftItem.description;
+
+        audience.textContent = minecraftItem.description;
         bottomContainer.appendChild(audience);
 
         const link = document.createElement("a");
